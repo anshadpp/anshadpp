@@ -6,54 +6,54 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** from Kerala, India,
 
 ---
 
-## About Me
+## 👋 About Me
 
-- **Location:** Kerala, India  
-- **Current Location:** Hyderabad, Telengana  
-- **Phone:** +919746449827  
-- **Email:** [anshad.pp36@gmail.com](mailto:anshad.pp36@gmail.com)  
-- **LinkedIn:** [anshad-p-p](https://in.linkedin.com/in/anshad-p-p)  
-- **GitHub:** [anshadpp](https://github.com/anshadpp)
+- **📍 Location:** Kerala, India  
+- **📍 Current Location:** Hyderabad, Telengana  
+- **📞 Phone:** +919746449827  
+- **✉️ Email:** [anshad.pp36@gmail.com](mailto:anshad.pp36@gmail.com)  
+- **🔗 LinkedIn:** [anshad-p-p](https://in.linkedin.com/in/anshad-p-p)  
+- **🐙 GitHub:** [anshadpp](https://github.com/anshadpp)
 
 I'm experienced in creating scalable solutions using modern technologies and have a strong track record of working with cross-functional teams to deliver high-quality projects.
 
 ---
 
-## Technical Skills
+## 💻 Technical Expertise
 
-### Programming Languages
+### 🔤 Programming Languages
 - Java
 - Dart
 - Python
 - JavaScript
 - C
 
-### Backend Development
+### 🔙 Backend Development
 - Spring Boot
 - Django
 
-### Frontend Development
+### 🌐 Frontend Development
 - HTML, CSS, JavaScript
 - AJAX, jQuery, JSP
 
-### Mobile Development
+### 📱 Mobile Development
 - **Flutter & Dart**  
   *Expertise in Flutter architecture, workflow, and API integration using provider packages*
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 - AWS (deployment, CLI)
 - Firebase
 - Git & GitHub
 - REST APIs
 
-### Databases
+### 🗄 Databases
 - MySQL
 
 ---
 
-## Work Experience
+## 🛠 Work Experience
 
-### Backend Developer  
+### 🏢 Backend Developer  
 **Peninsula Football Academy (Client: Saudi Arabia)**  
 *October 2024 - Present*  
 - Designed and deployed the backend for a football academy management app supporting both Android and iOS platforms.
@@ -61,7 +61,7 @@ I'm experienced in creating scalable solutions using modern technologies and hav
 - Managed cloud databases on AWS, Hostinger, and Contabo; integrated Amazon S3 for storage and Firebase for notifications.
 - Collaborated with UI designers and stakeholders to ensure timely delivery and quality assurance through centralized logging and rigorous testing.
 
-### Full Stack Web Developer Trainee  
+### 💼 Full Stack Web Developer Trainee  
 **Incube Innovation Incubator LLP, Hyderabad, India**  
 *July 2024 – Present*  
 - Developed and maintained full-stack projects using REST APIs to enhance application features and overall performance.
@@ -74,7 +74,7 @@ I'm experienced in creating scalable solutions using modern technologies and hav
 
 ---
 
-## Certifications & Courses
+## 🎓 Certifications & Courses
 
 - **Prompt Engineering for ChatGPT** – Coursera (Aug 2024)
 - **Introduction to Watson AI** – EdX (Aug 2023)
@@ -83,7 +83,7 @@ I'm experienced in creating scalable solutions using modern technologies and hav
 
 ---
 
-## Education
+## 🎓 Education
 
 **B.Tech in Computer Science and Engineering**  
 *MGMCEPS Valanchery*  
@@ -91,11 +91,11 @@ I'm experienced in creating scalable solutions using modern technologies and hav
 
 ---
 
-## Connect with Me
+## 🤝 Connect with Me
 
 Feel free to reach out if you'd like to collaborate or chat about tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshad--p--p-green?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anshad-p-p)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshad--p--p-green?style=flat&logo=linkedin&logoColor=blue)](https://in.linkedin.com/in/anshad-p-p)  
 [![GitHub](https://img.shields.io/badge/GitHub-anshadpp-black?style=flat&logo=github&logoColor=white)](https://github.com/anshadpp)
 
 </div>
