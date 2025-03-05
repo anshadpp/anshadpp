@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** from Kerala, India,
 
 ## About Me
 
-- **Location:** Kerala, India  
+- **Location:** Kerala, India
+- **Current Location:** Hyderabad,Telengana 
 - **Phone:** +919746449827  
 - **Email:** [anshad.pp36@gmail.com](mailto:anshad.pp36@gmail.com)  
 - **LinkedIn:** [anshad-p-p](https://in.linkedin.com/in/anshad-p-p)  
