@@ -1,5 +1,5 @@
 <!-- Dark Themed Banner -->
-<img src="https://via.placeholder.com/1200x300/000000/00FF00?text=Welcome+to+My+Profile" alt="Dark Theme Banner" />
+![Dark Theme Banner](https://placehold.co/1200x300/000000/00FF00?text=Welcome+to+My+Profile)
 
 # Hi, I'm Anshad P P 👋
 
@@ -89,12 +89,6 @@ I'm experienced in creating scalable solutions using modern technologies and hav
 **B.Tech in Computer Science and Engineering**  
 *MGMCEPS Valanchery*  
 2020 – 2024
-
----
-
-## GitHub Stats
-
-![Anshad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshadpp&show_icons=true&theme=dark&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)
 
 ---
 
