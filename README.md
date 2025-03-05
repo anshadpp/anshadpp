@@ -1,6 +1,6 @@
-<!-- Dark Themed Banner -->
-![Dark Theme Banner](https://placehold.co/1200x300/000000/00FF00?text=Hi,+I'm+Anshad+P+P+👋)
+<div style="background: linear-gradient(135deg, #00796B, #C62828, #283593); padding: 20px; border-radius: 10px; color: #ffffff; font-family: Arial, sans-serif;">
 
+# Hi, I'm Anshad P P 👋
 
 Welcome to my GitHub profile! I'm a **Full Stack Developer** from Kerala, India, passionate about designing, developing, and deploying robust web and mobile applications.
 
@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** from Kerala, India,
 
 ## About Me
 
-- **Location:** Kerala, India
-- **Current Location:** Hyderabad,Telengana 
+- **Location:** Kerala, India  
+- **Current Location:** Hyderabad, Telengana  
 - **Phone:** +919746449827  
 - **Email:** [anshad.pp36@gmail.com](mailto:anshad.pp36@gmail.com)  
 - **LinkedIn:** [anshad-p-p](https://in.linkedin.com/in/anshad-p-p)  
@@ -97,3 +97,5 @@ Feel free to reach out if you'd like to collaborate or chat about tech!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anshad--p--p-green?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anshad-p-p)  
 [![GitHub](https://img.shields.io/badge/GitHub-anshadpp-black?style=flat&logo=github&logoColor=white)](https://github.com/anshadpp)
+
+</div>
