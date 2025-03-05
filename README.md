@@ -1,3 +1,6 @@
+<!-- Dark Themed Banner -->
+<img src="https://via.placeholder.com/1200x300/000000/00FF00?text=Welcome+to+My+Profile" alt="Dark Theme Banner" />
+
 # Hi, I'm Anshad P P 👋
 
 Welcome to my GitHub profile! I'm a **Full Stack Developer** from Kerala, India, passionate about designing, developing, and deploying robust web and mobile applications.
@@ -89,9 +92,15 @@ I'm experienced in creating scalable solutions using modern technologies and hav
 
 ---
 
+## GitHub Stats
+
+![Anshad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshadpp&show_icons=true&theme=dark&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)
+
+---
+
 ## Connect with Me
 
 Feel free to reach out if you'd like to collaborate or chat about tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshad--p--p-blue)](https://in.linkedin.com/in/anshad-p-p)  
-[![GitHub](https://img.shields.io/badge/GitHub-anshadpp-black)](https://github.com/anshadpp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshad--p--p-green?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anshad-p-p)  
+[![GitHub](https://img.shields.io/badge/GitHub-anshadpp-black?style=flat&logo=github&logoColor=white)](https://github.com/anshadpp)
