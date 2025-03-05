@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** from Kerala, India,
 
 ## 👋 About Me
 
-- **📍 Location:** Kerala, India  
+- **🏠 Location:** Kerala, India  
 - **📍 Current Location:** Hyderabad, Telengana  
 - **📞 Phone:** +919746449827  
 - **✉️ Email:** [anshad.pp36@gmail.com](mailto:anshad.pp36@gmail.com)  
@@ -95,7 +95,7 @@ I'm experienced in creating scalable solutions using modern technologies and hav
 
 Feel free to reach out if you'd like to collaborate or chat about tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshad--p--p-green?style=flat&logo=linkedin&logoColor=blue)](https://in.linkedin.com/in/anshad-p-p)  
-[![GitHub](https://img.shields.io/badge/GitHub-anshadpp-black?style=flat&logo=github&logoColor=white)](https://github.com/anshadpp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshad--p--p-blue?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anshad-p-p)  
+[![GitHub](https://img.shields.io/badge/GitHub-anshadpp-red?style=flat&logo=github&logoColor=white)](https://github.com/anshadpp)
 
 </div>
