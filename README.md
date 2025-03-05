@@ -1,7 +1,6 @@
 <!-- Dark Themed Banner -->
-![Dark Theme Banner](https://placehold.co/1200x300/000000/00FF00?text=Welcome+to+My+Profile)
+![Dark Theme Banner](https://placehold.co/1200x300/000000/00FF00?text=Hi,+I'm+Anshad+P+P+👋)
 
-# Hi, I'm Anshad P P 👋
 
 Welcome to my GitHub profile! I'm a **Full Stack Developer** from Kerala, India, passionate about designing, developing, and deploying robust web and mobile applications.
 
