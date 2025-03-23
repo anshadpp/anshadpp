@@ -6,7 +6,7 @@
 <p align="center"><em>Full Stack Developer | Tech Enthusiast</em></p>
 
 <!-- Local animated illustration -->
-<img align="left" alt="Developer Illustration" width="150" src="man-1835.gif" style="margin-right: 20px;" />
+<img align="left" alt="Developer Illustration" width="150" height="100" src="man-1835.gif" style="margin-right: 20px;" />
 
 **About Me:**  
 I'm a Full Stack Developer from Kerala, India, now based in Hyderabad, Telengana. Passionate about creating scalable web and mobile applications, I bring modern technologies and creative solutions to every project.
