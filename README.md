@@ -11,21 +11,18 @@
 **About Me:**  
 I'm a Full Stack Developer from Kerala, India, now based in Hyderabad, Telengana. Passionate about creating scalable web and mobile applications, I bring modern technologies and creative solutions to every project.
 
-<table>
-  <tr>
-    <td>
-      **Location:** Kerala, India  <br>
-      **Current Location:** Hyderabad, Telengana  <br>
-      **Phone:** +919746449827  <br>
-      **Email:** [anshad.pp36@gmail.com](mailto:anshad.pp36@gmail.com)  <br>
-      **LinkedIn:** [anshad-p-p](https://in.linkedin.com/in/anshad-p-p)  <br>
-      **GitHub:** [anshadpp](https://github.com/anshadpp)
-    </td>
-    <td align="right">
-      <img src="cartoon-573_256.gif" alt="Developer GIF" width="150">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <div>
+    <strong>Location:</strong> Kerala, India<br>
+    <strong>Current Location:</strong> Hyderabad, Telangana<br>
+    <strong>Phone:</strong> +91 9746449827<br>
+    <strong>Email:</strong> <a href="mailto:anshad.pp36@gmail.com">anshad.pp36@gmail.com</a><br>
+    <strong>LinkedIn:</strong> <a href="https://in.linkedin.com/in/anshad-p-p">anshad-p-p</a><br>
+    <strong>GitHub:</strong> <a href="https://github.com/anshadpp">anshadpp</a>
+  </div>
+  <img src="URL_of_your_gif.gif" alt="Description of GIF" style="margin-left: 20px;">
+</div>
+
 
 <!--
 - **Location:** Kerala, India  
