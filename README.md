@@ -11,7 +11,7 @@
 **About Me:**  
 I'm a Full Stack Developer from Kerala, India, now based in Hyderabad, Telengana. Passionate about creating scalable web and mobile applications, I bring modern technologies and creative solutions to every project.
 
-
+---
 - **Location:** Kerala, India  
 - **Current Location:** Hyderabad, Telengana  
 - **Phone:** +919746449827  
