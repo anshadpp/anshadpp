@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="ai-generated-8274245_1280.jpg" alt="Banner" height ="300" width="100%">
+<img src="ai-generated-8273245_1280.jpg" alt="Banner" height ="300" width="100%">
 
 <!-- Main Container -->
 <div style="background: linear-gradient(135deg, #00796B, #C62828, #283593); padding: 20px; border-radius: 10px; color: #ffffff; font-family: Arial, sans-serif;">
@@ -24,7 +24,6 @@
     <p>
       I'm a Full Stack Developer originally from Kerala, India, now based in Hyderabad, Telangana. I specialize in creating scalable web and mobile applications with modern technologies and innovative solutions.
     </p>
-    
     <h2>Contact Information</h2>
     <ul style="list-style-type: none; padding-left: 0;">
       <li><strong>Location:</strong> Kerala, India</li>
@@ -50,7 +49,6 @@
   <!-- Work Experience -->
   <div style="text-align: left; padding: 10px;">
     <h2>Work Experience</h2>
-    
     <h3>Backend Developer <small>(Peninsula Football Academy - Client: Saudi Arabia)</small></h3>
     <p><em>October 2024 - Present</em></p>
     <ul>
@@ -58,7 +56,6 @@
       <li>Built REST APIs using Spring Boot and managed data with Hibernate/MySQL.</li>
       <li>Integrated cloud solutions including Amazon S3 and Firebase notifications.</li>
     </ul>
-    
     <h3>Full Stack Web Developer Trainee <small>(Incube Innovation Incubator LLP, Hyderabad)</small></h3>
     <p><em>July 2024 – Present</em></p>
     <ul>
@@ -66,12 +63,13 @@
       <li>Integrated third-party APIs and implemented cloud solutions on AWS and Firebase.</li>
       <li>Enhanced project performance through code reviews and secure token-based verification.</li>
     </ul>
+    
+    
   </div>
 
   <!-- Certifications & Education -->
   <div style="text-align: left; padding: 10px;">
     <h2>Certifications & Education</h2>
-    
     <h3>Certifications</h3>
     <ul>
       <li>Prompt Engineering for ChatGPT – Coursera (Aug 2024)</li>
@@ -79,11 +77,12 @@
       <li>Python Web Developer – L&T EduTech (Jul 2023)</li>
       <li>Python Basics for Data Science – EdX (Jul 2023)</li>
     </ul>
-    
     <h3>Education</h3>
     <ul>
       <li>B.Tech in Computer Science and Engineering, MGMCEPS Valanchery (2020 – 2024)</li>
     </ul>
+    
+    
   </div>
   
   <!-- Resume & Connect -->
