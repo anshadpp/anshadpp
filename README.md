@@ -18,12 +18,12 @@
   <hr style="border: 1px solid #ffffff;">
 
   <!-- About Me & Contact Info -->
-  <img align="right" src="man-1835.gif" alt="Developer GIF" width="150">
   <div style="text-align: left; padding: 10px;">
     <h2>About Me</h2>
     <p>
       I'm a Full Stack Developer originally from Kerala, India, now based in Hyderabad, Telangana. I specialize in creating scalable web and mobile applications with modern technologies and innovative solutions.
     </p>
+  <img align="right" src="man-1835.gif" alt="Developer GIF" width="150">
     <h2>Contact Information</h2>
     <ul style="list-style-type: none; padding-left: 0;">
       <li><strong>Location:</strong> Kerala, India</li>
