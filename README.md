@@ -23,8 +23,8 @@
     <p>
       I'm a Full Stack Developer originally from Kerala, India, now based in Hyderabad, Telangana. I specialize in creating scalable web and mobile applications with modern technologies and innovative solutions.
     </p>
-  <img align="right" src="man-1835.gif" alt="Developer GIF" width="150">
     <h2>Contact Information</h2>
+  <img align="right" src="man-1835.gif" alt="Developer GIF" width="150">
     <ul style="list-style-type: none; padding-left: 0;">
       <li><strong>Location:</strong> Kerala, India</li>
       <li><strong>Current Location:</strong> Hyderabad, Telangana</li>
@@ -33,6 +33,14 @@
     </ul>
   </div>
 
+  <div style="text-align: left; padding: 10px;">
+    <h2>Connect With Me</h2>
+    <p>
+      <a href="https://in.linkedin.com/in/anshad-p-p"><img src="https://img.shields.io/badge/LinkedIn-anshad--p--p-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+      <a href="https://github.com/anshadpp"><img src="https://img.shields.io/badge/GitHub-anshadpp-red?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+      <a href="https://drive.google.com/file/d/1dxC1kzfr9dc4AXD9Jy1qV5VgxwawULiz/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View-blue?style=flat" alt="Resume"></a>
+    </p>
+  </div>
   <!-- Technical Expertise -->
   <div style="text-align: left; padding: 10px;">
     <h2>Technical Expertise</h2>
@@ -86,14 +94,7 @@
   </div>
   
   <!-- Resume & Connect -->
-  <div style="text-align: left; padding: 10px;">
-    <h2>Connect With Me</h2>
-    <p>
-      <a href="https://in.linkedin.com/in/anshad-p-p"><img src="https://img.shields.io/badge/LinkedIn-anshad--p--p-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-      <a href="https://github.com/anshadpp"><img src="https://img.shields.io/badge/GitHub-anshadpp-red?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-      <a href="https://drive.google.com/file/d/1dxC1kzfr9dc4AXD9Jy1qV5VgxwawULiz/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View-blue?style=flat" alt="Resume"></a>
-    </p>
-  </div>
+
   
 </div>
 
