@@ -7,7 +7,6 @@
   <!-- Header Section -->
   <h1 align="center">Hi, I'm Anshad P P 👋</h1>
   <h3 align="center">Full Stack Developer | Tech Enthusiast</h3>
-  <img align="right" src="man-1835.gif" alt="Developer GIF" width="150">
   
   <!-- Social Links -->
   <p align="center" style="margin-top: 0.5rem;">
@@ -19,6 +18,7 @@
   <hr style="border: 1px solid #ffffff;">
 
   <!-- About Me & Contact Info -->
+  <img align="right" src="man-1835.gif" alt="Developer GIF" width="150">
   <div style="text-align: left; padding: 10px;">
     <h2>About Me</h2>
     <p>
