@@ -8,17 +8,22 @@
 **About Me:**  
 I'm a Full Stack Developer from Kerala, India, now based in Hyderabad, Telangana. Passionate about creating scalable web and mobile applications, I bring modern technologies and creative solutions to every project.
 
-<div style="display: flex; align-items: center; margin-top: 20px;">
-  <div>
-    <strong>Location:</strong> Kerala, India<br>
-    <strong>Current Location:</strong> Hyderabad, Telangana<br>
-    <strong>Phone:</strong> +91 9746449827<br>
-    <strong>Email:</strong> <a href="mailto:anshad.pp36@gmail.com" style="color: #ffffff;">anshad.pp36@gmail.com</a><br>
-    <strong>LinkedIn:</strong> <a href="https://in.linkedin.com/in/anshad-p-p" style="color: #ffffff;">anshad-p-p</a><br>
-    <strong>GitHub:</strong> <a href="https://github.com/anshadpp" style="color: #ffffff;">anshadpp</a>
-  </div>
-  <img src="man-1835.gif" alt="Developer GIF" height="150" style="margin-left: 20px;">
-</div>
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none; vertical-align: top;">
+      <strong>Location:</strong> Kerala, India<br>
+      <strong>Current Location:</strong> Hyderabad, Telangana<br>
+      <strong>Phone:</strong> +91 9746449827<br>
+      <strong>Email:</strong> <a href="mailto:anshad.pp36@gmail.com" style="color: #ffffff;">anshad.pp36@gmail.com</a><br>
+      <strong>LinkedIn:</strong> <a href="https://in.linkedin.com/in/anshad-p-p" style="color: #ffffff;">anshad-p-p</a><br>
+      <strong>GitHub:</strong> <a href="https://github.com/anshadpp" style="color: #ffffff;">anshadpp</a>
+    </td>
+    <td style="border: none; vertical-align: top;" align="right">
+      <img src="cartoon-573_256.gif" alt="Developer GIF" height="150">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
