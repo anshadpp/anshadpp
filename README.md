@@ -5,32 +5,20 @@
 <h1 align="center">Hi, I'm Anshad P P 👋</h1>
 <p align="center"><em>Full Stack Developer | Tech Enthusiast</em></p>
 
-<!-- Local animated illustration -->
-<!--<img align="left" alt="Developer Illustration" width="100" height="100" src="man-1835.gif" style="margin-right: 20px; margin-bottom: 20px;" /> -->
-
 **About Me:**  
-I'm a Full Stack Developer from Kerala, India, now based in Hyderabad, Telengana. Passionate about creating scalable web and mobile applications, I bring modern technologies and creative solutions to every project.
+I'm a Full Stack Developer from Kerala, India, now based in Hyderabad, Telangana. Passionate about creating scalable web and mobile applications, I bring modern technologies and creative solutions to every project.
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px;">
   <div>
     <strong>Location:</strong> Kerala, India<br>
     <strong>Current Location:</strong> Hyderabad, Telangana<br>
     <strong>Phone:</strong> +91 9746449827<br>
-    <strong>Email:</strong> <a href="mailto:anshad.pp36@gmail.com">anshad.pp36@gmail.com</a><br>
-    <strong>LinkedIn:</strong> <a href="https://in.linkedin.com/in/anshad-p-p">anshad-p-p</a><br>
-    <strong>GitHub:</strong> <a href="https://github.com/anshadpp">anshadpp</a>
+    <strong>Email:</strong> <a href="mailto:anshad.pp36@gmail.com" style="color: #ffffff;">anshad.pp36@gmail.com</a><br>
+    <strong>LinkedIn:</strong> <a href="https://in.linkedin.com/in/anshad-p-p" style="color: #ffffff;">anshad-p-p</a><br>
+    <strong>GitHub:</strong> <a href="https://github.com/anshadpp" style="color: #ffffff;">anshadpp</a>
   </div>
-  <img src="man-1835.gif" alt="Description of GIF" height="150" style="margin-right: 20px;">
+  <img src="cartoon-573_256.gif" alt="Developer GIF" height="150" style="margin-left: 20px;">
 </div>
-
-
-<!--
-- **Location:** Kerala, India  
-- **Current Location:** Hyderabad, Telengana  
-- **Phone:** +919746449827  
-- **Email:** [anshad.pp36@gmail.com](mailto:anshad.pp36@gmail.com)  
-- **LinkedIn:** [anshad-p-p](https://in.linkedin.com/in/anshad-p-p)  
-- **GitHub:** [anshadpp](https://github.com/anshadpp) -->
 
 ---
 
