@@ -19,7 +19,7 @@ I'm a Full Stack Developer from Kerala, India, now based in Hyderabad, Telangana
       <strong>GitHub:</strong> <a href="https://github.com/anshadpp" style="color: #ffffff;">anshadpp</a>
     </td>
     <td style="border: none; vertical-align: top;" align="right">
-      <img src="cartoon-573_256.gif" alt="Developer GIF" height="150">
+      <img src="man-1835.gif" alt="Developer GIF" height="150">
     </td>
   </tr>
 </table>
