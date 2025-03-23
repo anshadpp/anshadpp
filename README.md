@@ -20,7 +20,7 @@ I'm a Full Stack Developer from Kerala, India, now based in Hyderabad, Telengana
     <strong>LinkedIn:</strong> <a href="https://in.linkedin.com/in/anshad-p-p">anshad-p-p</a><br>
     <strong>GitHub:</strong> <a href="https://github.com/anshadpp">anshadpp</a>
   </div>
-  <img src="URL_of_your_gif.gif" alt="Description of GIF" style="margin-left: 20px;">
+  <img src="man-1835.gif" alt="Description of GIF" style="margin-left: 20px;">
 </div>
 
 
