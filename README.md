@@ -1,4 +1,4 @@
-![Banner](ai-generated-8273245_1280.jpg)
+<img src="ai-generated-8273245_1280.jpg" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 
 <div style="background: linear-gradient(135deg, #00796B, #C62828, #283593); padding: 20px; border-radius: 10px; color: #ffffff; font-family: Arial, sans-serif;">
 
