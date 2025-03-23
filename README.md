@@ -1,4 +1,4 @@
-![Banner](https://www.pexels.com/photo/close-up-view-of-system-hacking-in-a-monitor-5380664/))
+![Banner](https://www.pexels.com/photo/close-up-view-of-system-hacking-in-a-monitor-5380664)
 <div style="background: linear-gradient(135deg, #00796B, #C62828, #283593); padding: 20px; border-radius: 10px; color: #ffffff; font-family: Arial, sans-serif;">
 # Hi, I'm Anshad P P 👋
 
