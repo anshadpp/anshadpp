@@ -24,7 +24,7 @@
       I'm a Full Stack Developer originally from Kerala, India, now based in Hyderabad, Telangana. I specialize in creating scalable web and mobile applications with modern technologies and innovative solutions.
     </p>
     <h2>Contact Information</h2>
-  <img align="right" src="man-1835.gif" alt="Developer GIF" width="150">
+  <img align="right" src="https://tenor.com/view/software-software-development-gif-24712790" alt="Developer GIF" width="150">
     <ul style="list-style-type: none; padding-left: 0;">
       <li><strong>Location:</strong> Kerala, India</li>
       <li><strong>Current Location:</strong> Hyderabad, Telangana</li>
