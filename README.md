@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="ai-generated-8273245_1280.jpg" alt="Banner" height ="300" width="100%">
+<img src="banner.png" alt="Banner" height ="300" width="100%">
 
 <!-- Main Container -->
 <div style="background: linear-gradient(135deg, #00796B, #C62828, #283593); padding: 20px; border-radius: 10px; color: #ffffff; font-family: Arial, sans-serif;">
