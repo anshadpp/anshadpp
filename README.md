@@ -16,11 +16,6 @@
   </p>
   
   <hr style="border: 1px solid #ffffff;">
-
-  <p><a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="anshadpp" /></a>
-  <a href="https://github.com/Tanuj1718#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="anshadpp" /></a>
-</p>
-
   <!-- About Me & Contact Info -->
   <div style="text-align: left; padding: 10px;">
     <h2>About Me</h2>
@@ -56,64 +51,20 @@
       <li><strong>Cloud & DevOps:</strong> AWS, Firebase, Git & GitHub, REST APIs</li>
       <li><strong>Databases:</strong> MySQL</li>
     </ul>
+  </div>    
   </div>
-
-  <!-- Work Experience -->
-  <div style="text-align: left; padding: 10px;">
-    <h2>Work Experience</h2>
-    <h3>Backend Developer <small>(Peninsula Football Academy - Client: Saudi Arabia)</small></h3>
-    <p><em>October 2024 - Present</em></p>
-    <ul>
-      <li>Developed backend systems for a football academy management app (Android & iOS).</li>
-      <li>Built REST APIs using Spring Boot and managed data with Hibernate/MySQL.</li>
-      <li>Integrated cloud solutions including Amazon S3 and Firebase notifications.</li>
-    </ul>
-    <h3>Full Stack Web Developer Trainee <small>(Incube Innovation Incubator LLP, Hyderabad)</small></h3>
-    <p><em>July 2024 – Present</em></p>
-    <ul>
-      <li>Created full-stack projects and mobile apps using Flutter & Dart.</li>
-      <li>Integrated third-party APIs and implemented cloud solutions on AWS and Firebase.</li>
-      <li>Enhanced project performance through code reviews and secure token-based verification.</li>
-    </ul>
-    
-    
-  </div>
-
-  <!-- Certifications & Education -->
-  <div style="text-align: left; padding: 10px;">
-    <h2>Certifications & Education</h2>
-    <h3>Certifications</h3>
-    <ul>
-      <li>Prompt Engineering for ChatGPT – Coursera (Aug 2024)</li>
-      <li>Introduction to Watson AI – EdX (Aug 2023)</li>
-      <li>Python Web Developer – L&T EduTech (Jul 2023)</li>
-      <li>Python Basics for Data Science – EdX (Jul 2023)</li>
-    </ul>
-    <h3>Education</h3>
-    <ul>
-      <li>B.Tech in Computer Science and Engineering, MGMCEPS Valanchery (2020 – 2024)</li>
-    </ul>
-    
-    
-  </div>
-  
-  <!-- Resume & Connect -->
-
-  
 </div>
-
 <br>
 
 <!-- GitHub Stats Section -->
 <div align="center">
   <h2>GitHub Stats</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&layout=compact&hide_border=true" alt="Top Languages">
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshadpp&hide_border=true" alt="GitHub Streak">
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=anshadpp&hide_border=true" alt="GitHub Stats">
-  </p>
+   <p><a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="anshadpp" /></a>
+  <a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="anshadpp" /></a>
+</p>
+ <p>&nbsp;<a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshadpp&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="anshadpp" /></a>
+<a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshadpp&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="anshadpp" /></a>
+</p> 
+<p><a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=nightowl#gh-dark-mode-only" alt="anshadpp"/></a>
+<a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=vue#gh-light-mode-only" alt="anshadpp"/></a></p>
 </div>
