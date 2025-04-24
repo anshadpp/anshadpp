@@ -17,6 +17,10 @@
   
   <hr style="border: 1px solid #ffffff;">
 
+  <p><a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="anshadpp" /></a>
+  <a href="https://github.com/Tanuj1718#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="anshadpp" /></a>
+</p>
+
   <!-- About Me & Contact Info -->
   <div style="text-align: left; padding: 10px;">
     <h2>About Me</h2>
