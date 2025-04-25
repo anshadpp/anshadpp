@@ -74,6 +74,6 @@
 </p> 
 <br>
 
-<p><a href="https://github.com/Tanuj1718#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Tanuj1718&theme=nightowl#gh-dark-mode-only" alt="Tanuj1718"/></a>
-<a href="https://github.com/Tanuj1718#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Tanuj1718&theme=vue#gh-light-mode-only" alt="Tanuj1718"/></a></p>
+<p><a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=nightowl#gh-dark-mode-only" alt="anshadpp"/></a>
+<a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=vue#gh-light-mode-only" alt="anshadpp"/></a></p>
 </div>
