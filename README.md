@@ -6,7 +6,7 @@
 
   <!-- Header Section -->
   <h1 align="center">Hi, I'm Anshad P P 👋</h1>
-  <h3 align="center">Full Stack Developer | Tech Enthusiast</h3>
+  <h3 align="center">Software Engineer | Tech Enthusiast</h3>
   
   <!-- Social Links -->
   <p align="center" style="margin-top: 0.5rem;">
@@ -20,7 +20,7 @@
   <div style="text-align: left; padding: 10px;">
     <h2>About Me</h2>
     <p>
-      I'm a Full Stack Developer originally from Kerala, India, now based in Hyderabad, Telangana. I specialize in creating scalable web and mobile applications with modern technologies and innovative solutions.
+     I’m a software engineer from Kerala, India, now based in Hyderabad, Telangana. I tackle complex challenges by building scalable web and mobile applications using modern technologies and innovative solutions.
     </p>
     <h2>Contact Information</h2>
   <img align="right" src="man-1835.gif" alt="Developer GIF" width="150">
@@ -46,21 +46,6 @@
     </p>
   </div>
 
-
-  <!-- Technical Expertise -->
-  <div style="text-align: left; padding: 10px;">
-    <h2>Technical Expertise</h2>
-    <ul>
-      <li><strong>Languages:</strong> Java, Dart, Python, JavaScript, C</li>
-      <li><strong>Backend:</strong> Spring Boot, Django</li>
-      <li><strong>Frontend:</strong> HTML, CSS, JavaScript, AJAX, jQuery, JSP</li>
-      <li><strong>Mobile:</strong> Flutter & Dart (using provider packages)</li>
-      <li><strong>Cloud & DevOps:</strong> AWS, Firebase, Git & GitHub, REST APIs</li>
-      <li><strong>Databases:</strong> MySQL</li>
-    </ul>
-  </div>    
-  </div>
-</div>
 <br>
 
 <!-- GitHub Stats Section -->
