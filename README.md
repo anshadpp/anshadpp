@@ -74,18 +74,19 @@
 </p> 
 <br>
 <p>
+  <p align="center">
   <a href="https://github.com/anshadpp" target="_blank">
+    <!-- only shows in dark mode -->
     <img
-      align="center"
       class="gh-dark-mode-only"
       src="https://streak-stats.demolab.com?user=anshadpp&theme=nightowl"
-      alt="anshadpp"
+      alt="🔥 GitHub Streak for anshadpp"
     />
+    <!-- only shows in light mode -->
     <img
-      align="center"
       class="gh-light-mode-only"
       src="https://streak-stats.demolab.com?user=anshadpp&theme=github-light"
-      alt="anshadpp"
+      alt="🔥 GitHub Streak for anshadpp"
     />
   </a>
 </p>
