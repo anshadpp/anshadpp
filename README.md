@@ -32,6 +32,11 @@
     </ul>
   </div>
 
+<h2>Languages and Tools</h2> 
+<p align="left">
+<img width="280px"  src="https://skillicons.dev/icons?i=java,dart,flutter,springboot,mysql,html,css,bootstrap,tailwind,javascript,react,git,mongodb,python&perline=9"  />
+</p>
+
   <div style="text-align: left; padding: 10px;">
     <h2>Connect With Me</h2>
     <p>
@@ -40,6 +45,8 @@
       <a href="https://drive.google.com/file/d/1dxC1kzfr9dc4AXD9Jy1qV5VgxwawULiz/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View-blue?style=flat" alt="Resume"></a>
     </p>
   </div>
+
+
   <!-- Technical Expertise -->
   <div style="text-align: left; padding: 10px;">
     <h2>Technical Expertise</h2>
@@ -65,6 +72,8 @@
  <p>&nbsp;<a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshadpp&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="anshadpp" /></a>
 <a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshadpp&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="anshadpp" /></a>
 </p> 
+<br>
+<br />
 <p><a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=nightowl#gh-dark-mode-only" alt="anshadpp"/></a>
 <a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=vue#gh-light-mode-only" alt="anshadpp"/></a></p>
 </div>
