@@ -34,7 +34,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=java,dart,flutter,spring boot,mysql,html,css,bootstrap,javascript,react,git,mongodb,python,aws&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=java,dart,flutter,mysql,html,css,bootstrap,javascript,react,git,mongodb,python,aws&perline=9"  />
 </p>
 
   <div style="text-align: left; padding: 10px;">
