@@ -34,7 +34,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=java,dart,flutter,mysql,html,css,javascript,react,git,mongodb,python,aws,spring&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=java,dart,flutter,mysql,html,css,javascript,react,git,mongodb,python,aws,eclipse,firebase,github,spring,sqlite&perline=9"  />
 </p>
 
   <div style="text-align: left; padding: 10px;">
@@ -73,7 +73,20 @@
 <a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshadpp&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="anshadpp" /></a>
 </p> 
 <br>
-<br />
-<p><a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=nightowl#gh-dark-mode-only" alt="anshadpp"/></a>
-<a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=vue#gh-light-mode-only" alt="anshadpp"/></a></p>
+<p>
+  <a href="https://github.com/anshadpp" target="_blank">
+    <img
+      align="center"
+      class="gh-dark-mode-only"
+      src="https://streak-stats.demolab.com?user=anshadpp&theme=nightowl"
+      alt="anshadpp"
+    />
+    <img
+      align="center"
+      class="gh-light-mode-only"
+      src="https://streak-stats.demolab.com?user=anshadpp&theme=github-light"
+      alt="anshadpp"
+    />
+  </a>
+</p>
 </div>
