@@ -65,6 +65,6 @@
  <p>&nbsp;<a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshadpp&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="anshadpp" /></a>
 <a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshadpp&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="anshadpp" /></a>
 </p> 
-<p>&nbsp;<a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=nightowl#gh-dark-mode-only" alt="anshadpp"/></a>
+<p><a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=nightowl#gh-dark-mode-only" alt="anshadpp"/></a>
 <a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=vue#gh-light-mode-only" alt="anshadpp"/></a></p>
 </div>
