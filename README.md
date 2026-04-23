@@ -1,64 +1,74 @@
-<!-- Banner Image -->
-<img src="banner.png" alt="Banner" height ="250" width="100%">
+<img src="banner.png" alt="Anshad P P — Full Stack Developer" width="100%" />
 
-<!-- Main Container -->
-<div style="background: linear-gradient(135deg, #00796B, #C62828, #283593); padding: 20px; border-radius: 10px; color: #ffffff; font-family: Arial, sans-serif;">
+<h1 align="center">Hi, I'm Anshad P P</h1>
 
-  <!-- Header Section -->
-  <h1 align="center">Hi, I'm Anshad P P 👋</h1>
-  <h3 align="center">Software Engineer | Tech Enthusiast</h3>
-  
-  <!-- Social Links -->
-  <p align="center" style="margin-top: 0.5rem;">
-    <a href="https://in.linkedin.com/in/anshad-p-p" style="color:#ffffff; text-decoration:none;">LinkedIn</a> &nbsp;|&nbsp;
-    <a href="https://github.com/anshadpp" style="color:#ffffff; text-decoration:none;">GitHub</a> &nbsp;|&nbsp;
-    <a href="mailto:anshad.pp36@gmail.com" style="color:#ffffff; text-decoration:none;">Email</a>
-  </p>
-  
-  <hr style="border: 1px solid #ffffff;">
-  <!-- About Me & Contact Info -->
-  <div style="text-align: left; padding: 10px;">
-    <h2>About Me</h2>
-    <p>
-     I’m a software engineer from Kerala, India, now based in Hyderabad, Telangana. I tackle complex challenges by building scalable web and mobile applications using modern technologies and innovative solutions.
-    </p>
-    <h2>Contact Information</h2>
-  <img align="right" src="man-1835.gif" alt="Developer GIF" width="150">
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li><strong>Location:</strong> Kerala, India</li>
-      <li><strong>Current Location:</strong> Hyderabad, Telangana</li>
-      <li><strong>Phone:</strong> +91 9746449827</li>
-      <li><strong>Email:</strong> <a href="mailto:anshad.pp36@gmail.com" style="color: #ffffff;">anshad.pp36@gmail.com</a></li>
-    </ul>
-  </div>
-
-<h2>Languages and Tools</h2> 
-<p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=java,dart,flutter,mysql,html,css,javascript,react,git,mongodb,python,aws,eclipse,firebase,github,spring,sqlite&perline=9"  />
+<p align="center">
+  <strong>Full Stack Developer</strong> — Java · Spring Boot · Flutter · Node.js · React<br/>
+  Shipping production apps for international clients. Open to remote roles worldwide.
 </p>
 
-  <div style="text-align: left; padding: 10px;">
-    <h2>Connect With Me</h2>
-    <p>
-      <a href="https://in.linkedin.com/in/anshad-p-p"><img src="https://img.shields.io/badge/LinkedIn-anshad--p--p-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-      <a href="https://github.com/anshadpp"><img src="https://img.shields.io/badge/GitHub-anshadpp-red?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-      <a href="https://drive.google.com/file/d/1dxC1kzfr9dc4AXD9Jy1qV5VgxwawULiz/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View-blue?style=flat" alt="Resume"></a>
-    </p>
-  </div>
-
-<br>
-
-<!-- GitHub Stats Section -->
-<div align="center">
-  <h2>GitHub Stats</h2>
-   <p><a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="anshadpp" /></a>
-  <a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="anshadpp" /></a>
+<p align="center">
+  <a href="https://anshadpp.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-visit-06B6D4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/anshad-p-p">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anshad.pp36@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1dxC1kzfr9dc4AXD9Jy1qV5VgxwawULiz/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-view-475569?style=flat-square" alt="Resume"/>
+  </a>
 </p>
- <p>&nbsp;<a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshadpp&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="anshadpp" /></a>
-<a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshadpp&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="anshadpp" /></a>
-</p> 
-<br>
 
-<p><a href="https://github.com/anshadpp#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=nightowl#gh-dark-mode-only" alt="anshadpp"/></a>
-<a href="https://github.com/anshadpp#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=anshadpp&theme=vue#gh-light-mode-only" alt="anshadpp"/></a></p>
-</div>
+---
+
+## What I'm doing right now
+
+- Leading a **WhatsApp Business API integration** and companion mobile app at **Incube Innovation Incubator LLP** (Hyderabad)
+- Contracted to **Travel360** (Dubai) — building the first-phase MVP of an early-stage travel marketplace on **Node.js + Hono.js + React**
+- Maintaining **[Daily Tracker](https://github.com/anshadpp/daily-tracking)** — an offline Flutter app for 13-block routine tracking
+
+## Recently shipped
+
+**[Peninsula Football Academy](https://apps.apple.com/us/app/peninsula/id6740138988)** — cross-platform (iOS + Android) academy management app live on the Apple App Store for a Saudi Arabia client. Owned both the Spring Boot backend (50+ REST endpoints, MySQL, Hibernate, token auth, Amazon S3, Firebase Cloud Messaging) and the Flutter client. October 2024 – February 2026.
+
+## Tech stack
+
+**Backend** — Java · Spring Boot · Node.js · Hono.js · MySQL · Hibernate · REST APIs
+**Mobile** — Flutter · Dart · Provider · SQLite · Android
+**Frontend** — React · TypeScript · HTML · CSS · JavaScript
+**Cloud & Infra** — AWS · Firebase · Amazon S3 · Hostinger · Contabo
+**Tools** — Git · GitHub · Linux
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,flutter,dart,mysql,aws,firebase,git,linux&perline=12" alt="Tech stack icons"/>
+</p>
+
+## Featured projects
+
+| Project | Stack | Links |
+|---|---|---|
+| **Peninsula Football Academy** — iOS & Android app shipped for a Saudi Arabia client | Spring Boot · Flutter · MySQL · AWS · S3 · Firebase | [App Store](https://apps.apple.com/us/app/peninsula/id6740138988) |
+| **Daily Tracker** — offline Android routine tracker with SQLite + local notifications | Flutter · Dart · SQLite · Android | [Repo](https://github.com/anshadpp/daily-tracking) |
+| **WebSocket Broadcast Chat** — Java WebSocket server demonstrating broadcast networking | Java · WebSockets · Concurrency | [Repo](https://github.com/anshadpp/chat) |
+| **Portfolio** — this profile's portfolio site, futuristic design with particle network and HUD cursor | React · TypeScript · Tailwind · Vite | [Live](https://anshadpp.github.io/portfolio/) · [Repo](https://github.com/anshadpp/portfolio) |
+
+## Get in touch
+
+- **Portfolio** — [anshadpp.github.io/portfolio](https://anshadpp.github.io/portfolio/)
+- **LinkedIn** — [linkedin.com/in/anshad-p-p](https://linkedin.com/in/anshad-p-p)
+- **Email** — [anshad.pp36@gmail.com](mailto:anshad.pp36@gmail.com)
+- **Location** — Hyderabad, India · Open to remote roles worldwide · Flexible timezone
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anshadpp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Anshad's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anshadpp&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
