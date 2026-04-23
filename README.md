@@ -18,7 +18,7 @@
   <a href="mailto:anshad.pp36@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://drive.google.com/file/d/1dxC1kzfr9dc4AXD9Jy1qV5VgxwawULiz/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1rhVYpt637izIOT5qSSvRggOaYBs9Ecmk/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-view-1F2937?style=for-the-badge&logoColor=white" alt="Resume"/>
   </a>
 </p>
