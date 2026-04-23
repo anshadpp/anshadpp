@@ -57,7 +57,6 @@
 |---|---|---|
 | **Peninsula Football Academy** — iOS & Android app shipped for a Saudi Arabia client | Spring Boot · Flutter · MySQL · AWS · S3 · Firebase | [App Store](https://apps.apple.com/us/app/peninsula/id6740138988) |
 | **Daily Tracker** — offline Android routine tracker with SQLite + local notifications | Flutter · Dart · SQLite · Android | [Repo](https://github.com/anshadpp/daily-tracking) |
-| **WebSocket Broadcast Chat** — Java WebSocket server demonstrating broadcast networking | Java · WebSockets · Concurrency | [Repo](https://github.com/anshadpp/chat) |
 | **Portfolio** — this profile's portfolio site, futuristic design with particle network and HUD cursor | React · TypeScript · Tailwind · Vite | [Live](https://anshadpp.github.io/portfolio/) · [Repo](https://github.com/anshadpp/portfolio) |
 
 ## ▸ Get in touch
