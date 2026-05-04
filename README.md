@@ -4,7 +4,7 @@
 <!-- Cycling tagline typed in cyan -->
 <p align="center">
   <a href="https://anshadpp.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=720&lines=Spring+Boot+%C2%B7+Flutter+%C2%B7+Node.js+%C2%B7+React;Shipped+on+the+Apple+App+Store;Building+production+apps+for+international+clients;Open+to+remote+roles+worldwide" alt="typing tagline"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=720&lines=Spring+Boot+%C2%B7+Flutter+%C2%B7+Node.js+%C2%B7+React;Shipped+on+the+Apple+App+Store;Built+production+apps+for+international+clients;Open+to+remote+roles+worldwide" alt="typing tagline"/>
   </a>
 </p>
 
@@ -31,9 +31,11 @@
 
 ## ▸ What I'm doing right now
 
-- Leading a **WhatsApp Business API integration** and companion mobile app at **Incube Innovation Incubator LLP** (Hyderabad)
-- Contracted to **Travel360** (Dubai) — building the first-phase MVP of an early-stage travel marketplace on **Node.js + Hono.js + React**
+- **Open to new opportunities** — looking for remote Software Engineer / SDE roles, worldwide
 - Maintaining **[Daily Tracker](https://github.com/anshadpp/daily-tracking)** — an offline Flutter app for 13-block routine tracking
+- Sharpening **Node.js · TypeScript · React** alongside the core **Java · Spring Boot · Flutter** stack
+
+> Most recent role — Junior Full Stack Developer at **Incube Innovation Incubator LLP** (Jul 2024 – May 2026, Hyderabad), with an independent contract via Incube to **Travel360** (Mar 2026 – May 2026, remote).
 
 ## ▸ Recently shipped
 
@@ -64,7 +66,7 @@
 - **Portfolio** — [anshadpp.github.io/portfolio](https://anshadpp.github.io/portfolio/)
 - **LinkedIn** — [linkedin.com/in/anshad-p-p](https://linkedin.com/in/anshad-p-p)
 - **Email** — [anshad.pp36@gmail.com](mailto:anshad.pp36@gmail.com)
-- **Location** — Hyderabad, India · Open to remote roles worldwide · Flexible timezone
+- **Location** — Remote-first · Open worldwide · Flexible timezone
 
 ## ▸ GitHub stats
 
