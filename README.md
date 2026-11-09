@@ -66,14 +66,25 @@ projects/
 
 > Professional ERP and client projects are described at a high level; their source code is not shared here.
 
-## `> git status --short`
+
+<h2>📊 GitHub Activity</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshadpp&show_icons=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=1E3A50&hide_border=false" height="165" alt="GitHub profile statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&layout=compact&theme=transparent&title_color=38BDF8&text_color=CBD5E1&border_color=1E3A50&hide_border=false" height="165" alt="Most used public repository languages" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshadpp&theme=github_dark"
+  height="165"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshadpp&theme=github_dark"
+  height="165"
+  alt="Most Used Languages"
+/>
 
 </div>
+
 
 <sub>GitHub statistics reflect public repository activity, not total professional experience. External widgets may be temporarily unavailable.</sub>
 
