@@ -1,87 +1,86 @@
-<!-- Animated cyan→violet header beam -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:A855F7&height=160&section=header&text=Anshad%20P%20P&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=62&animation=fadeIn" alt="Anshad P P" width="100%" />
+<div align="center">
 
-<!-- Cycling tagline typed in cyan -->
-<p align="center">
-  <a href="https://anshadpp.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=720&lines=Spring+Boot+%C2%B7+Flutter+%C2%B7+Node.js+%C2%B7+React;Shipped+on+the+Apple+App+Store;Built+production+apps+for+international+clients;Open+to+remote+roles+worldwide" alt="typing tagline"/>
-  </a>
-</p>
+<img src="./assets/terminal-hero.svg" width="100%" alt="Anshad P P — software developer terminal banner" />
 
-<p align="center">
-  <a href="https://anshadpp.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/anshad-p-p">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:anshad.pp36@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1rhVYpt637izIOT5qSSvRggOaYBs9Ecmk/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-view-1F2937?style=for-the-badge&logoColor=white" alt="Resume"/>
-  </a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3300&pause=1100&color=38BDF8&center=true&vCenter=true&width=680&lines=Software+Developer+%7C+Backend+%26+Flutter;Building+reliable+enterprise+software;Exploring+systems+programming" alt="Animated developer introduction" /></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshadpp&label=Profile%20views&color=06B6D4&style=flat-square" alt="Profile views"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B1726?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://anshadpp.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1726?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/anshad-p-p)
+[![Email](https://img.shields.io/badge/EMAIL-0B1726?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:anshad.pp36@gmail.com)
+
+</div>
+
+## `> whoami`
+
+```yaml
+name: Anshad P P
+role: Software Developer
+location: Kerala, India
+current_company: Zabnix Private Limited
+focus:
+  - Enterprise ERP applications
+  - Flutter and backend engineering
+  - Debugging and performance optimization
+learning:
+  - C/C++ fundamentals
+  - Systems programming concepts
+```
+
+I develop enterprise applications, backend services, and cross-platform software. Currently, I work on an ERP product for pharmaceutical retail and wholesale operations using **Flutter, Dart, NestJS, and PostgreSQL**. I enjoy diagnosing software problems, improving performance, and building maintainable systems.
+
+## `> cat experience.log`
+
+**Software Developer — Zabnix Private Limited** · Jun 2026–Present  
+Working on pharmaceutical retail and wholesale ERP software, including inventory, purchasing, sales, accounting, and reporting workflows. Building Flutter features, integrating NestJS APIs and PostgreSQL, and investigating performance and integration issues.
+
+**Junior Full Stack Developer — Incube Innovation Incubator LLP** · Jul 2024–May 2026  
+Built Java/Spring Boot services and Flutter applications, including **50+ REST API endpoints** for a football academy platform. Worked with MySQL, authentication, AWS S3, Firebase Cloud Messaging, and Linux deployments. Promoted from trainee in Aug 2025.
+
+**Junior Full Stack Developer (Contract via Incube) — Travel360** · Mar–May 2026  
+Contributed to an early-stage travel marketplace MVP using TypeScript, Node.js, Hono.js, and React.
+
+## `> ls ./toolbox`
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-0B1726?style=flat-square&logo=openjdk&logoColor=38BDF8) ![Python](https://img.shields.io/badge/Python-0B1726?style=flat-square&logo=python&logoColor=38BDF8) ![Dart](https://img.shields.io/badge/Dart-0B1726?style=flat-square&logo=dart&logoColor=38BDF8) ![TypeScript](https://img.shields.io/badge/TypeScript-0B1726?style=flat-square&logo=typescript&logoColor=38BDF8) ![JavaScript](https://img.shields.io/badge/JavaScript-0B1726?style=flat-square&logo=javascript&logoColor=38BDF8)
+
+**Frameworks & platforms**  
+![Flutter](https://img.shields.io/badge/Flutter-0B1726?style=flat-square&logo=flutter&logoColor=38BDF8) ![NestJS](https://img.shields.io/badge/NestJS-0B1726?style=flat-square&logo=nestjs&logoColor=38BDF8) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B1726?style=flat-square&logo=springboot&logoColor=38BDF8) ![Django](https://img.shields.io/badge/Django_APIs-0B1726?style=flat-square&logo=django&logoColor=38BDF8) ![React](https://img.shields.io/badge/React-0B1726?style=flat-square&logo=react&logoColor=38BDF8)
+
+**Data, infrastructure & tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1726?style=flat-square&logo=postgresql&logoColor=38BDF8) ![MySQL](https://img.shields.io/badge/MySQL-0B1726?style=flat-square&logo=mysql&logoColor=38BDF8) ![Linux](https://img.shields.io/badge/Linux-0B1726?style=flat-square&logo=linux&logoColor=38BDF8) ![AWS](https://img.shields.io/badge/AWS-0B1726?style=flat-square&logo=amazonwebservices&logoColor=38BDF8) ![Git](https://img.shields.io/badge/Git-0B1726?style=flat-square&logo=git&logoColor=38BDF8)
+
+**Currently learning:** C and C++ fundamentals, systems programming concepts.
+
+## `> tree ./projects`
+
+```text
+projects/
+├── daily-tracking/       # Offline-first Android planning app
+└── portfolio/            # Interactive React developer portfolio
+```
+
+**[Daily Tracker](https://github.com/anshadpp/daily-tracking)** — Flutter, Dart, SQLite. Offline task planning, reminders, progress statistics, and local storage.
+
+**[Personal Portfolio](https://github.com/anshadpp/portfolio)** — React, TypeScript, Vite, Tailwind CSS. Interactive portfolio with motion effects and accessibility considerations. **[Live site](https://anshadpp.github.io/portfolio)**.
+
+> Professional ERP and client projects are described at a high level; their source code is not shared here.
+
+## `> git status --short`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anshadpp&show_icons=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=1E3A50&hide_border=false" height="165" alt="GitHub profile statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&layout=compact&theme=transparent&title_color=38BDF8&text_color=CBD5E1&border_color=1E3A50&hide_border=false" height="165" alt="Most used public repository languages" />
+
+</div>
+
+<sub>GitHub statistics reflect public repository activity, not total professional experience. External widgets may be temporarily unavailable.</sub>
 
 ---
 
-## ▸ What I'm doing right now
-
-- **Open to new opportunities** — looking for remote Software Engineer / SDE roles, worldwide
-- Maintaining **[Daily Tracker](https://github.com/anshadpp/daily-tracking)** — an offline Flutter app for 13-block routine tracking
-- Sharpening **Node.js · TypeScript · React** alongside the core **Java · Spring Boot · Flutter** stack
-
-> Most recent role — Junior Full Stack Developer at **Incube Innovation Incubator LLP** (Jul 2024 – May 2026, Hyderabad), with an independent contract via Incube to **Travel360** (Mar 2026 – May 2026, remote).
-
-## ▸ Recently shipped
-
-**[Peninsula Football Academy](https://apps.apple.com/us/app/peninsula/id6740138988)** — cross-platform (iOS + Android) academy management app live on the Apple App Store for a Saudi Arabia client. Owned both the Spring Boot backend (50+ REST endpoints, MySQL, Hibernate, token auth, Amazon S3, Firebase Cloud Messaging) and the Flutter client. October 2024 – February 2026.
-
-## ▸ Tech stack
-
-**Backend** — Java · Spring Boot · Node.js · Hono.js · MySQL · Hibernate · REST APIs
-**Mobile** — Flutter · Dart · Provider · SQLite · Android
-**Frontend** — React · TypeScript · HTML · CSS · JavaScript
-**Cloud & Infra** — AWS · Firebase · Amazon S3 · Hostinger · Contabo
-**Tools** — Git · GitHub · Linux
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,flutter,dart,mysql,aws,firebase,git,linux&perline=12" alt="Tech stack icons"/>
-</p>
-
-## ▸ Featured projects
-
-| Project | Stack | Links |
-|---|---|---|
-| **Peninsula Football Academy** — iOS & Android app shipped for a Saudi Arabia client | Spring Boot · Flutter · MySQL · AWS · S3 · Firebase | [App Store](https://apps.apple.com/us/app/peninsula/id6740138988) |
-| **Daily Tracker** — offline Android routine tracker with SQLite + local notifications | Flutter · Dart · SQLite · Android | [Repo](https://github.com/anshadpp/daily-tracking) |
-| **Portfolio** — this profile's portfolio site, futuristic design with particle network and HUD cursor | React · TypeScript · Tailwind · Vite | [Live](https://anshadpp.github.io/portfolio/) · [Repo](https://github.com/anshadpp/portfolio) |
-
-## ▸ Get in touch
-
-- **Portfolio** — [anshadpp.github.io/portfolio](https://anshadpp.github.io/portfolio/)
-- **LinkedIn** — [linkedin.com/in/anshad-p-p](https://linkedin.com/in/anshad-p-p)
-- **Email** — [anshad.pp36@gmail.com](mailto:anshad.pp36@gmail.com)
-- **Location** — Remote-first · Open worldwide · Flexible timezone
-
-## ▸ GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anshadpp&show_icons=true&theme=synthwave&count_private=true&hide_border=true&title_color=A855F7&icon_color=06B6D4" alt="Anshad's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshadpp&layout=compact&theme=synthwave&hide_border=true&langs_count=8&title_color=A855F7" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshadpp&theme=synthwave&hide_border=true&currStreakLabel=06B6D4" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshadpp&theme=react-dark&area=true&hide_border=true&bg_color=0A0B14&color=06B6D4&line=A855F7&point=06B6D4" alt="Activity graph" width="98%"/>
-</p>
-
-<!-- Closing wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:06B6D4&height=80&section=footer&animation=fadeIn" alt="" width="100%" />
+<div align="center">
+<img src="./assets/terminal-footer.svg" width="100%" alt="Terminal footer: keep building" />
+<br />
+<sub>Thanks for visiting · <a href="https://anshadpp.github.io/portfolio">Explore my portfolio</a></sub>
+</div>
